@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\AbstractionPractice\AbstractionPractice\bin\Debug\net8.0\AbstractionPractice.exe
+C:\Users\caplo\source\repos\AbstractionPractice\AbstractionPractice\bin\Debug\net8.0\AbstractionPractice.deps.json
+C:\Users\caplo\source\repos\AbstractionPractice\AbstractionPractice\bin\Debug\net8.0\AbstractionPractice.runtimeconfig.json
+C:\Users\caplo\source\repos\AbstractionPractice\AbstractionPractice\bin\Debug\net8.0\AbstractionPractice.dll
+C:\Users\caplo\source\repos\AbstractionPractice\AbstractionPractice\bin\Debug\net8.0\AbstractionPractice.pdb
+C:\Users\caplo\source\repos\AbstractionPractice\AbstractionPractice\obj\Debug\net8.0\AbstractionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\AbstractionPractice\AbstractionPractice\obj\Debug\net8.0\AbstractionPractice.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\AbstractionPractice\AbstractionPractice\obj\Debug\net8.0\AbstractionPractice.AssemblyInfo.cs
+C:\Users\caplo\source\repos\AbstractionPractice\AbstractionPractice\obj\Debug\net8.0\AbstractionPractice.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\AbstractionPractice\AbstractionPractice\obj\Debug\net8.0\AbstractionPractice.dll
+C:\Users\caplo\source\repos\AbstractionPractice\AbstractionPractice\obj\Debug\net8.0\refint\AbstractionPractice.dll
+C:\Users\caplo\source\repos\AbstractionPractice\AbstractionPractice\obj\Debug\net8.0\AbstractionPractice.pdb
+C:\Users\caplo\source\repos\AbstractionPractice\AbstractionPractice\obj\Debug\net8.0\AbstractionPractice.genruntimeconfig.cache
+C:\Users\caplo\source\repos\AbstractionPractice\AbstractionPractice\obj\Debug\net8.0\ref\AbstractionPractice.dll
